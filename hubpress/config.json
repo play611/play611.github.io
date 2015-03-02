@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "play611",
-    "repositoryName": "play611.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"play611","repositoryName":"play611.github.io","branch":"master"},"site":{"title":"Khaylo Wiki","description":"This is the Wiki/Blog site of Khaylo","url":"http://play611.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://play611.github.io/themes/Casper"}}
